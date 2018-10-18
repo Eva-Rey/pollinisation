@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>fleur</title>
+    <link rel="stylesheet" href="styles/reset.css">
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css?family=Patrick+Hand|Source+Sans+Pro" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    </head>
+    <body>
+
+
+    <section id="presentation">
+
+    <div class="text-pollinisation">
+      <h1>De fleur en fleur...</h1>
+      <p>Une fleur possède à la fois un partie mâle et une partie femmelle, mais elle ne peut pas se reproduire avec elle même. La fleur a besoin de recevoir le pollen d'une autre fleur. C'est alors qu'interviennent les insectes pollinisateurs.</p>
+
+    </div>
+
+
+
+    <div class="picture">
+      <img src="images/test01.jpg" alt="">
+    </div>
+
+
+    </section>
+
+  <a class="js-scrollTo"href="#video"><img src="images/fleche.svg" id="scroll01"></a>
+
+  <div id="video">
+
+  <video controls>
+    <source src="videos/fleur.mp4" type="video/mp4">
+    <source src="videos/fleur.webm" type="video/webm">
+    <p>Your browser doesn't support HTML5 video. Here is
+       a <a href="https://www.youtube.com/watch?v=-cAke64BwP0">link to the video</a> instead.</p>
+  </video>
+
+  </div>
+
+
+  <a class="js-scrollTo"href="#quizz"><img src="images/fleche.svg" id="scroll02"></a>
+
+
+  <div id="quizz">
+
+
+  <div class="quizz">
+  <h2>As tu bien renetu ?</h2>
+  <p>Une fois sur la fleur, dans quelle partie se dirige le pollen ?</p>
+    <input type="radio" name="citizenship" />Dans les ovules.<br />
+    <input type="radio" name="citizenship" />Dans le pistil.<br />
+    <input type="radio" name="citizenship" />Sur les pétales.
+  </div>
+  </div>
+
+
+  <section id="bouton-valider">
+
+  <div class="valider">
+    <a href="plus.html"><h3>valider</h3></a>
+  </div>
+
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+      $(document).ready(function() {
+        $('.js-scrollTo').on('click', function() { // Au clic sur un élément
+          var page = $(this).attr('href'); // Page cible
+          var speed = 750; // Durée de l'animation (en ms)
+          $('html, body').animate( { scrollTop: $(page).offset().top }, speed ); // Go
+          return false;
+        });
+      });
+    </script>
+
+  </body>
+</html>
