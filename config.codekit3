@@ -30,78 +30,6 @@
 		"oAP": "\/fleur.html",
 		"oF": 0
 		},
-	"\/images\/01.png": {
-		"ft": 32768,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/images\/01.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/02.jpg": {
-		"ft": 16384,
-		"iS": 142317,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/02.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/03 copie.jpg": {
-		"ft": 16384,
-		"iS": 167801,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/03 copie.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/03.eps": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/03.eps",
-		"oF": 0
-		},
-	"\/images\/03.jpg": {
-		"ft": 16384,
-		"iS": 208676,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/03.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/03.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/03.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/E48478D8C7473798.jpeg": {
-		"ft": 16384,
-		"iS": 0,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/E48478D8C7473798.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/fleche.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -122,6 +50,46 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/images\/image002.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/image002.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/image003.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/image003.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/image004.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/image004.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/image005.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/image005.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/images\/image01.jpg": {
 		"ft": 16384,
 		"iS": 90345,
@@ -132,13 +100,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/images\/image02.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/image02.ai",
-		"oF": 0
 		},
 	"\/images\/image02.svg": {
 		"ft": 2097152,
@@ -180,28 +141,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/images\/test.png": {
-		"ft": 32768,
-		"iS": 0,
-		"oA": 0,
-		"oAP": "\/images\/test.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/test01.jpg": {
-		"ft": 16384,
-		"iS": 29640,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/test01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/index.css": {
 		"aP": 1,
@@ -246,6 +185,17 @@
 		"oA": 0,
 		"oAP": "\/menu.html",
 		"oF": 0
+		},
+	"\/plastique-un-bonus-malus-pour-favoriser-le-recyclage_4114161_540x270p (1).jpg": {
+		"ft": 16384,
+		"iS": 46003,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/plastique-un-bonus-malus-pour-favoriser-le-recyclage_4114161_540x270p (1).jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/plus.html": {
 		"cB": 0,
